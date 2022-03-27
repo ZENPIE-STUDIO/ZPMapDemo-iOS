@@ -1,0 +1,52 @@
+/*
+  Localizable.strings
+ 
+  Created by EddieHua.
+*/
+
+ok = "OK";
+error = "Error";
+cancel = "Cancel";
+
+// Map
+map.poi-info.route = "Directions";
+map.request-noti-permission = "During the navigation if App in background, need permission to notify.";
+map.search-places-or-roads = "Search for places or roads";
+map.search-nearby-convenience-stores = "Nearby Convenience stores";
+map.search-nearby-gas-stations = "Nearby Gas stations";
+map.search-nearby-lodging = "Nearby Lodging";
+map.destination = "Destination";
+map.current-location.button = "Current Location";
+map.deviated-from-route.message = "Deviated from route path";
+map.back-to-navigation-route.message = "Back to navigation route";
+map.s-search-results.message = "'%@' search results";
+map.route-results = "Route results";
+map.route-failed = "Route failed";
+map.start-voice-navigation- = "Start voice navigation,";
+map.arrived-s-route-over = "Arrived at %@, stop navigation";
+map.estimate-remain-distance- = "Estimate Remaining Distance ";
+map.close-to-destination = "Close to destination";
+map.through- = "Through ";
+map.-to- = " to ";
+map.-then- = ", then ";
+map.in-dis-ins = "In %@, %@";  //  "xx 距離" 後 "指示"
+// -- 轉彎提示 --
+map.u-turn-right = "Make a U-Turn right";
+map.u-turn-left = "Make a U-Turn left";
+map.sharp-right = "Make a sharp right turn";
+map.sharp-left = "Make a sharp left turn";
+map.turn-right = "Turn right";
+map.turn-left = "Turn left";
+map.fork-right = "Keep right at the fork";
+map.fork-left = "Keep left at the fork";
+map.slight-right = "Make a slight right";
+map.slight-left = "Make a slight left";
+map.round-about-right = "At the roundabout turn right";
+map.round-about-left = "At the roundabout turn left";
+map.keep-right = "Keep right";
+map.keep-left = "Keep left";
+map.ramp-right = "Take the ramp on the right";
+map.ramp-left = "Take the ramp on the left";
+map.merge = "Merge";
+map.straight = "Continue straight";
+map.ferry = "Take the ferry";

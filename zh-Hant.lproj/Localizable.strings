@@ -1,0 +1,54 @@
+/*
+  Localizable.strings
+
+  Created by EddieHua.
+*/
+
+ok = "好";
+error = "發生錯誤";
+cancel = "取消";
+
+
+// Map
+map.poi-info.route = "路線";
+map.request-noti-permission = "導航期間如果App在背景，需要允許才能繼續傳送通知訊息。";
+map.search-places-or-roads = "搜尋地點或道路";
+map.search-nearby-convenience-stores = "附近便利商店";
+map.search-nearby-gas-stations = "附近加油站";
+map.search-nearby-lodging = "附近住宿";
+map.destination = "目的地";
+map.current-location.button = "現在地";
+map.deviated-from-route.message = "偏離導航路線";
+map.back-to-navigation-route.message = "回到導航路線";
+map.s-search-results.message = "'%@' 的搜尋結果";
+map.route-results = "規劃結果";
+map.route-failed = "規劃失敗";
+map.start-voice-navigation- = "開始語音導航，";
+map.arrived-s-route-over = "到達%@，結束導航。";
+map.estimate-remain-distance- = "預估剩餘距離 ";
+map.close-to-destination = "接近目的地";
+map.through- = "經由";
+map.-to- = "前往";
+map.-then- = ", 然後再";
+map.in-dis-ins = "%@後、%@";  //  "xx 距離" 後 "指示"
+
+// -- 轉彎提示 --
+map.u-turn-right = "右迴轉";
+map.u-turn-left = "左迴轉";
+map.sharp-right = "向右轉";    // Google Map - 右急轉
+map.sharp-left = "向左轉";
+map.turn-right = "右轉";
+map.turn-left = "左轉";
+map.fork-right = "岔道保持向右";
+map.fork-left = "岔道保持向左";
+map.slight-right = "右轉";
+map.slight-left = "左轉";
+map.round-about-right = "在圓環右轉";
+map.round-about-left = "在圓環左轉";
+map.keep-right = "保持右側";
+map.keep-left = "保持左側";
+map.ramp-right = "通過右邊的匝道";
+map.ramp-left = "通過左邊的匝道";
+map.merge = "併入車道";
+map.straight = "繼續直行";
+map.ferry = "搭乘渡輪";
